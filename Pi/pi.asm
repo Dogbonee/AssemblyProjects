@@ -12,12 +12,6 @@ section .data
     sign dq 1.0
     divideInc dq 2.0
     
-    
-    
-section .bss
-    result resq 1
-    
-    
 section .text
 global main
 
